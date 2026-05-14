@@ -47,19 +47,19 @@ $ ls projects/
 
 ## ◢ stats
 
-```bash
-$ stats --user=Db2203
-─────────────────────────────────────────────
-user         : Db2203
-focus        : AI/ML · Web dev · Hobby projects
-repos        : 10+ public on GitHub
-stack        : python · js/ts · react · pytorch · node
-learning     : whatever I'm stuck on this week
-coffee_left  : ██████████░░░░░  (running low)
-sleep        : optional
-status       : online · always building
-─────────────────────────────────────────────
-```
+<p>
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/github_dark/3-stats.svg" alt="stats" />
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos per language" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="commits per language" />
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="productive time" />
+</p>
 
 ---
 
