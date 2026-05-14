@@ -40,7 +40,7 @@ data      : mongodb, postgresql, mysql
 ops       : git, github, vscode, docker, linux, aws, figma
 
 $ ls projects/
-./   ../   project-one   project-two   project-three   README.md
+./   ../   Portfolio/   saferoute/   WhatsMood/   job_match_ai/   README.md
 ```
 
 ---
