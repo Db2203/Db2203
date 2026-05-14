@@ -43,41 +43,42 @@
 
 ## ✨ Featured projects
 
-<!-- TODO Db: replace project-one / project-two / etc. with your real repo names -->
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Db2203/project-one">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=project-one&theme=merko&hide_border=true" />
+      <a href="https://github.com/Db2203/Portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=Portfolio&theme=merko&hide_border=true" />
       </a>
-      <p><em>One-line description of what this project does and why it's interesting.</em></p>
-      <sub>🔗 <a href="https://github.com/Db2203/project-one">Repo</a> &nbsp;·&nbsp; 🌐 <a href="#">Live</a></sub>
+      <p><em>My personal portfolio — projects, writing, and the occasional good idea.</em></p>
+      <sub>🔗 <a href="https://github.com/Db2203/Portfolio">Repo</a> &nbsp;·&nbsp; 🌐 <a href="#">Live</a></sub>
     </td>
     <td width="50%">
-      <a href="https://github.com/Db2203/project-two">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=project-two&theme=merko&hide_border=true" />
+      <a href="https://github.com/Db2203/saferoute">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=saferoute&theme=merko&hide_border=true" />
       </a>
-      <p><em>One-line description of what this project does and why it's interesting.</em></p>
-      <sub>🔗 <a href="https://github.com/Db2203/project-two">Repo</a> &nbsp;·&nbsp; 🌐 <a href="#">Live</a></sub>
+      <p><em>Smart route planning that factors in safety, not just shortest distance.</em></p>
+      <sub>🔗 <a href="https://github.com/Db2203/saferoute">Repo</a> &nbsp;·&nbsp; 🌐 <a href="#">Live</a></sub>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Db2203/project-three">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=project-three&theme=merko&hide_border=true" />
+      <a href="https://github.com/Db2203/WhatsMood">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=WhatsMood&theme=merko&hide_border=true" />
       </a>
-      <p><em>One-line description of what this project does and why it's interesting.</em></p>
-      <sub>🔗 <a href="https://github.com/Db2203/project-three">Repo</a> &nbsp;·&nbsp; 🌐 <a href="#">Live</a></sub>
+      <p><em>Mood tracking with a sentiment-aware twist on the journaling format.</em></p>
+      <sub>🔗 <a href="https://github.com/Db2203/WhatsMood">Repo</a> &nbsp;·&nbsp; 🌐 <a href="#">Live</a></sub>
     </td>
     <td width="50%">
-      <a href="https://github.com/Db2203/project-four">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=project-four&theme=merko&hide_border=true" />
+      <a href="https://github.com/Db2203/job_match_ai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=job_match_ai&theme=merko&hide_border=true" />
       </a>
-      <p><em>One-line description of what this project does and why it's interesting.</em></p>
-      <sub>🔗 <a href="https://github.com/Db2203/project-four">Repo</a> &nbsp;·&nbsp; 🌐 <a href="#">Live</a></sub>
+      <p><em>ML-driven job-candidate matching using resume + posting embeddings.</em></p>
+      <sub>🔗 <a href="https://github.com/Db2203/job_match_ai">Repo</a> &nbsp;·&nbsp; 🌐 <a href="#">Live</a></sub>
     </td>
   </tr>
 </table>
+
+> Descriptions above are educated guesses based on repo names — feel free to edit them to match what the projects actually do.
 
 ---
 

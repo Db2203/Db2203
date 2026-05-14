@@ -81,29 +81,28 @@ mixes a clean interface with a model behind it.
 
 ## Featured projects
 
-<!-- TODO Db: replace project-one / project-two / etc. with your real repo names -->
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Db2203/project-one">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=project-one&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/Db2203/Portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=Portfolio&theme=tokyonight&hide_border=true" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/Db2203/project-two">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=project-two&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/Db2203/saferoute">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=saferoute&theme=tokyonight&hide_border=true" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Db2203/project-three">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=project-three&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/Db2203/WhatsMood">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=WhatsMood&theme=tokyonight&hide_border=true" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/Db2203/project-four">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=project-four&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/Db2203/job_match_ai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=job_match_ai&theme=tokyonight&hide_border=true" />
       </a>
     </td>
   </tr>
