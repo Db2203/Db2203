@@ -47,8 +47,19 @@ $ ls projects/
 
 ## ◢ stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Db2203&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff7f&icon_color=00ff7f&text_color=c9d1d9&count_private=true&include_all_commits=true)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Db2203&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff7f&text_color=c9d1d9)
+<p>
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/github_dark/3-stats.svg" alt="stats" />
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos per language" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="commits per language" />
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="productive time" />
+</p>
 
 ---
 

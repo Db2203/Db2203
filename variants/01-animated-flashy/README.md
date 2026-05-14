@@ -72,8 +72,17 @@ fueled_by : ☕ and curiosity
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Db2203&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Db2203&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top languages" />
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/radical/0-profile-details.svg" alt="profile details" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/radical/3-stats.svg" alt="stats" />
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="repos per language" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/radical/2-most-commit-language.svg" alt="commits per language" />
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/radical/4-productive-time.svg" alt="productive time" />
 </p>
 
 <p align="center">

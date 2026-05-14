@@ -66,13 +66,17 @@ mixes a clean interface with a model behind it.
 
 ## Stats
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
+</p>
+
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Db2203&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
+      <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Db2203&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+      <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos per language" />
     </td>
   </tr>
 </table>
