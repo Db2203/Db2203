@@ -1,4 +1,4 @@
-<!--
+﻿<!--
   GITHUB PROFILE README — VARIANT 04: CREATIVE / PORTFOLIO
   ─────────────────────────────────────────────────────────
   PREVIEW: paste into a temporary repo's README.md and view on GitHub.
@@ -95,12 +95,12 @@
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/chartreuse-dark/0-profile-details.svg" alt="profile details" />
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg" alt="profile details" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/chartreuse-dark/1-repos-per-language.svg" alt="repos per language" />
-  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/chartreuse-dark/3-stats.svg" alt="stats" />
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg" alt="repos per language" />
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/chartreuse_dark/3-stats.svg" alt="stats" />
 </p>
 
 ---
