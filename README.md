@@ -1,127 +1,97 @@
 <!--
-  GITHUB PROFILE README — VARIANT 02: MODERN & CLEAN
+  GITHUB PROFILE README — VARIANT 03: TERMINAL / HACKER
   ─────────────────────────────────────────────────────────
   PREVIEW: paste into a temporary repo's README.md and view on GitHub.
   PROMOTE: copy to a new repo named EXACTLY `Db2203` (case-sensitive)
   to display on your profile page.
 -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=120&section=header&text=Db&fontSize=60&fontColor=ffffff&fontAlignY=50" alt="header" />
+```
+  ____  _
+ |  _ \| |__
+ | | | | '_ \
+ | |_| | |_) |
+ |____/|_.__/
+  ── caffeine.daemon active ──
+```
+
+```bash
+$ initialize connection
+Connecting to Db2203@github  [ OK ]
+Loading shell .........  [ OK ]
+```
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2400&pause=800&color=00FF7F&width=620&lines=user%40Db2203%3A~%24+whoami;user%40Db2203%3A~%24+cat+skills.txt;user%40Db2203%3A~%24+ls+projects%2F;user%40Db2203%3A~%24+sudo+make+coffee" alt="terminal typing animation" />
 </p>
 
-<p align="center">
-  <strong>CS student · building things in AI, on the web, and for fun.</strong>
-</p>
+```bash
+$ whoami
+> CS student running on caffeine and Stack Overflow.
+> Splits time between AI/ML notebooks, web/app builds,
+  and weekend hobby code that exists because it sounded fun.
+> Currently learning: whatever GitHub trending pushed yesterday.
+
+$ cat skills.txt
+languages : python, javascript, typescript, java, c, c++
+ai_ml     : pytorch, tensorflow, scikit-learn, numpy, pandas, jupyter
+web       : react, nextjs, tailwind, nodejs, express
+data      : mongodb, postgresql, mysql
+ops       : git, github, vscode, docker, linux, aws, figma
+
+$ ls projects/
+./   ../   Portfolio/   saferoute/   WhatsMood/   job_match_ai/   README.md
+```
 
 ---
 
-## About
+## ◢ stats
 
-I'm Db — a computer science student who spends time across three corners of the field:
-notebooks and models in the AI/ML world, components and APIs in the web/app world,
-and small projects built purely because they sounded fun.
-
-Currently learning whatever I'm stuck on. Open to collaboration on anything that
-mixes a clean interface with a model behind it.
+![stats](https://github-readme-stats.vercel.app/api?username=Db2203&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff7f&icon_color=00ff7f&text_color=c9d1d9&count_private=true&include_all_commits=true)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Db2203&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff7f&text_color=c9d1d9)
 
 ---
 
-## Tech
+## ◢ stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-**AI / ML**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Web**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Data & tools**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/python-c9d1d9?style=flat-square&logo=python&logoColor=00ff7f&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/javascript-c9d1d9?style=flat-square&logo=javascript&logoColor=00ff7f&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/typescript-c9d1d9?style=flat-square&logo=typescript&logoColor=00ff7f&labelColor=0d1117)
+![Java](https://img.shields.io/badge/java-c9d1d9?style=flat-square&logo=openjdk&logoColor=00ff7f&labelColor=0d1117)
+![C](https://img.shields.io/badge/c-c9d1d9?style=flat-square&logo=c&logoColor=00ff7f&labelColor=0d1117)
+![C++](https://img.shields.io/badge/c%2B%2B-c9d1d9?style=flat-square&logo=c%2B%2B&logoColor=00ff7f&labelColor=0d1117)
+![PyTorch](https://img.shields.io/badge/pytorch-c9d1d9?style=flat-square&logo=pytorch&logoColor=00ff7f&labelColor=0d1117)
+![TensorFlow](https://img.shields.io/badge/tensorflow-c9d1d9?style=flat-square&logo=tensorflow&logoColor=00ff7f&labelColor=0d1117)
+![scikit-learn](https://img.shields.io/badge/sklearn-c9d1d9?style=flat-square&logo=scikit-learn&logoColor=00ff7f&labelColor=0d1117)
+![NumPy](https://img.shields.io/badge/numpy-c9d1d9?style=flat-square&logo=numpy&logoColor=00ff7f&labelColor=0d1117)
+![Pandas](https://img.shields.io/badge/pandas-c9d1d9?style=flat-square&logo=pandas&logoColor=00ff7f&labelColor=0d1117)
+![Jupyter](https://img.shields.io/badge/jupyter-c9d1d9?style=flat-square&logo=jupyter&logoColor=00ff7f&labelColor=0d1117)
+![React](https://img.shields.io/badge/react-c9d1d9?style=flat-square&logo=react&logoColor=00ff7f&labelColor=0d1117)
+![Next.js](https://img.shields.io/badge/nextjs-c9d1d9?style=flat-square&logo=nextdotjs&logoColor=00ff7f&labelColor=0d1117)
+![Tailwind](https://img.shields.io/badge/tailwind-c9d1d9?style=flat-square&logo=tailwindcss&logoColor=00ff7f&labelColor=0d1117)
+![Node.js](https://img.shields.io/badge/nodejs-c9d1d9?style=flat-square&logo=nodedotjs&logoColor=00ff7f&labelColor=0d1117)
+![Express](https://img.shields.io/badge/express-c9d1d9?style=flat-square&logo=express&logoColor=00ff7f&labelColor=0d1117)
+![MongoDB](https://img.shields.io/badge/mongodb-c9d1d9?style=flat-square&logo=mongodb&logoColor=00ff7f&labelColor=0d1117)
+![PostgreSQL](https://img.shields.io/badge/postgres-c9d1d9?style=flat-square&logo=postgresql&logoColor=00ff7f&labelColor=0d1117)
+![MySQL](https://img.shields.io/badge/mysql-c9d1d9?style=flat-square&logo=mysql&logoColor=00ff7f&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/docker-c9d1d9?style=flat-square&logo=docker&logoColor=00ff7f&labelColor=0d1117)
+![Linux](https://img.shields.io/badge/linux-c9d1d9?style=flat-square&logo=linux&logoColor=00ff7f&labelColor=0d1117)
+![Git](https://img.shields.io/badge/git-c9d1d9?style=flat-square&logo=git&logoColor=00ff7f&labelColor=0d1117)
+![AWS](https://img.shields.io/badge/aws-c9d1d9?style=flat-square&logo=amazonaws&logoColor=00ff7f&labelColor=0d1117)
 
 ---
 
-## Stats
+## ◢ snake.exe
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Db2203&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Db2203&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-    </td>
-  </tr>
-</table>
+![contribution snake](https://raw.githubusercontent.com/Db2203/Db2203/output/github-snake-dark.svg)
 
 ---
 
-## Featured projects
+```bash
+$ exit
+Connection to Db2203 closed.
+```
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Db2203/Portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=Portfolio&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Db2203/saferoute">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=saferoute&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Db2203/WhatsMood">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=WhatsMood&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Db2203/job_match_ai">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=job_match_ai&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## Contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Db2203/Db2203/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Db2203/Db2203/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Db2203/Db2203/output/github-snake.svg" />
-</picture>
-
----
-
-<p align="center">
-  <sub>Thanks for visiting.</sub>
-  &nbsp;·&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Db2203&label=views&color=7c3aed&style=flat-square" alt="profile views" />
-</p>
+<sub>
+  <img src="https://komarev.com/ghpvc/?username=Db2203&label=connections&color=00ff7f&style=plastic" />
+</sub>
