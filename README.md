@@ -1,92 +1,117 @@
 <!--
-  GITHUB PROFILE README — VARIANT 01: ANIMATED & FLASHY
+  GITHUB PROFILE README — VARIANT 02: MODERN & CLEAN
   ─────────────────────────────────────────────────────────
-  HOW TO PREVIEW: create a public repo (e.g. Db2203/readme-preview),
-  push this file as README.md on a branch named `variant-01-animated`,
-  then open it on github.com — every embedded SVG renders live.
-
-  HOW TO PROMOTE TO YOUR PROFILE: create a NEW repo named EXACTLY
-  `Db2203` (case-sensitive — must match your GitHub username). Drop
-  this file in as README.md, plus the snake workflow at
-  `.github/workflows/snake.yml`, and your profile page lights up.
+  PREVIEW: paste into a temporary repo's README.md and view on GitHub.
+  PROMOTE: copy to a new repo named EXACTLY `Db2203` (case-sensitive)
+  to display on your profile page.
 -->
 
-<!-- ── Animated wave banner ─────────────────────────────────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Db&fontSize=80&fontAlignY=35&fontColor=ffffff&animation=fadeIn" alt="header banner" />
-</p>
-
-<!-- ── Typing animation ────────────────────────────────────────── -->
-<p align="center">
-  <a href="https://github.com/Db2203">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=600&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Student+%F0%9F%8E%93;AI%2FML+Explorer+%F0%9F%A4%96;Web+Tinkerer+%F0%9F%8C%90;Hobbyist+Coder+%F0%9F%9B%A0%EF%B8%8F" alt="typing animation" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=120&section=header&text=Db&fontSize=60&fontColor=ffffff&fontAlignY=50" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Db2203&label=Profile+views&color=36BCF7&style=for-the-badge" alt="profile views" />
+  <strong>CS student · building things in AI, on the web, and for fun.</strong>
 </p>
 
 ---
 
-## 🌟 About me
+## About
 
-```yaml
-name      : Db
-role      : Computer Science student
-exploring : [AI/ML, Web & App development, side projects for fun]
-learning  : always something new
-fueled_by : ☕ and curiosity
-```
+I'm Db — a computer science student who spends time across three corners of the field:
+notebooks and models in the AI/ML world, components and APIs in the web/app world,
+and small projects built purely because they sounded fun.
 
----
-
-## 🛠️ Tech I work with
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn&theme=dark" />
-  </a>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs&theme=dark" />
-  </a>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,java,c,cpp,mongodb,postgres,mysql&theme=dark" />
-  </a>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,aws,figma&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
+Currently learning whatever I'm stuck on. Open to collaboration on anything that
+mixes a clean interface with a model behind it.
 
 ---
 
-## 📊 Stats
+## Tech
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Db2203&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Db2203&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top languages" />
-</p>
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Db2203&theme=radical&hide_border=true" alt="GitHub streak" />
-</p>
+**AI / ML**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Db2203&theme=radical&no-frame=true&column=7&margin-w=15" alt="trophies" />
-</p>
+**Web**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Data & tools**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🐍 Watch my contributions get eaten
+## Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Db2203&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Db2203&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## Featured projects
+
+<!-- TODO Db: replace project-one / project-two / etc. with your real repo names -->
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Db2203/project-one">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=project-one&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Db2203/project-two">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=project-two&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Db2203/project-three">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=project-three&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Db2203/project-four">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=project-four&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Db2203/Db2203/output/github-snake-dark.svg" />
@@ -96,12 +121,8 @@ fueled_by : ☕ and curiosity
 
 ---
 
-## 💭 Quote of the day
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer banner" />
+  <sub>Thanks for visiting.</sub>
+  &nbsp;·&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Db2203&label=views&color=7c3aed&style=flat-square" alt="profile views" />
 </p>
