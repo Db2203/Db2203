@@ -1,107 +1,112 @@
 <!--
-  GITHUB PROFILE README — VARIANT 01: ANIMATED & FLASHY
+  GITHUB PROFILE README — VARIANT 04: CREATIVE / PORTFOLIO
   ─────────────────────────────────────────────────────────
-  HOW TO PREVIEW: create a public repo (e.g. Db2203/readme-preview),
-  push this file as README.md on a branch named `variant-01-animated`,
-  then open it on github.com — every embedded SVG renders live.
+  PREVIEW: paste into a temporary repo's README.md and view on GitHub.
+  PROMOTE: copy to a new repo named EXACTLY `Db2203` (case-sensitive)
+  to display on your profile page.
 
-  HOW TO PROMOTE TO YOUR PROFILE: create a NEW repo named EXACTLY
-  `Db2203` (case-sensitive — must match your GitHub username). Drop
-  this file in as README.md, plus the snake workflow at
-  `.github/workflows/snake.yml`, and your profile page lights up.
+  The placeholder images come from placehold.co — replace them with
+  your own banner / illustration when you're ready (or leave them as
+  a placeholder).
 -->
 
-<!-- ── Animated wave banner ─────────────────────────────────────── -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Db&fontSize=80&fontAlignY=35&fontColor=ffffff&animation=fadeIn" alt="header banner" />
+  <img src="https://placehold.co/1200x300/0f172a/38bdf8?text=Hi%2C+I%27m+Db" alt="hero banner placeholder — swap in your own image" width="100%" />
 </p>
 
-<!-- ── Typing animation ────────────────────────────────────────── -->
-<p align="center">
-  <a href="https://github.com/Db2203">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=600&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Student+%F0%9F%8E%93;AI%2FML+Explorer+%F0%9F%A4%96;Web+Tinkerer+%F0%9F%8C%90;Hobbyist+Coder+%F0%9F%9B%A0%EF%B8%8F" alt="typing animation" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Db2203&label=Profile+views&color=36BCF7&style=for-the-badge" alt="profile views" />
-</p>
+<h1 align="center">Hi, I'm Db 👋</h1>
+<p align="center"><em>CS student · makes things in AI, on the web, and for fun</em></p>
 
 ---
 
-## 🌟 About me
-
-```yaml
-name      : Db
-role      : Computer Science student
-exploring : [AI/ML, Web & App development, side projects for fun]
-learning  : always something new
-fueled_by : ☕ and curiosity
-```
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>About</h3>
+      <p>
+        I'm a computer science student who likes building. My work sits across three
+        worlds — training models in Python, shipping web/app interfaces in TS + React,
+        and weekend hobby projects that exist purely because they sounded cool.
+      </p>
+      <p>
+        I care about clean abstractions, fast feedback loops, and projects that
+        actually run end-to-end. Currently learning whatever I'm stuck on.
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://placehold.co/400x300/0f172a/38bdf8?text=your+art+or+gif" alt="profile illustration placeholder" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech I work with
+## ✨ Featured projects
+
+<!-- TODO Db: replace project-one / project-two / etc. with your real repo names -->
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Db2203/project-one">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=project-one&theme=merko&hide_border=true" />
+      </a>
+      <p><em>One-line description of what this project does and why it's interesting.</em></p>
+      <sub>🔗 <a href="https://github.com/Db2203/project-one">Repo</a> &nbsp;·&nbsp; 🌐 <a href="#">Live</a></sub>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Db2203/project-two">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=project-two&theme=merko&hide_border=true" />
+      </a>
+      <p><em>One-line description of what this project does and why it's interesting.</em></p>
+      <sub>🔗 <a href="https://github.com/Db2203/project-two">Repo</a> &nbsp;·&nbsp; 🌐 <a href="#">Live</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Db2203/project-three">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=project-three&theme=merko&hide_border=true" />
+      </a>
+      <p><em>One-line description of what this project does and why it's interesting.</em></p>
+      <sub>🔗 <a href="https://github.com/Db2203/project-three">Repo</a> &nbsp;·&nbsp; 🌐 <a href="#">Live</a></sub>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Db2203/project-four">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Db2203&repo=project-four&theme=merko&hide_border=true" />
+      </a>
+      <p><em>One-line description of what this project does and why it's interesting.</em></p>
+      <sub>🔗 <a href="https://github.com/Db2203/project-four">Repo</a> &nbsp;·&nbsp; 🌐 <a href="#">Live</a></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Tools of the trade
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,react,nextjs,tailwind,nodejs,mongodb,postgres,docker,linux,aws,figma,git,vscode&theme=light&perline=16" />
   </a>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs&theme=dark" />
-  </a>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,java,c,cpp,mongodb,postgres,mysql&theme=dark" />
-  </a>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,aws,figma&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
 ---
 
-## 📊 Stats
+## 📈 Most-used languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Db2203&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Db2203&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Db2203&theme=radical&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Db2203&theme=radical&no-frame=true&column=7&margin-w=15" alt="trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Db2203&layout=compact&theme=merko&hide_border=true&langs_count=10" />
 </p>
 
 ---
 
-## 🐍 Watch my contributions get eaten
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Db2203/Db2203/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Db2203/Db2203/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Db2203/Db2203/output/github-snake.svg" />
-</picture>
-
----
-
-## 💭 Quote of the day
-
+<!-- Social links — fill in real URLs when ready -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" />
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="portfolio" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer banner" />
+  <img src="https://komarev.com/ghpvc/?username=Db2203&label=Visitors&color=10b981&style=flat" />
 </p>
