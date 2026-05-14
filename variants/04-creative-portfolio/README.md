@@ -92,10 +92,15 @@
 
 ---
 
-## 📈 Most-used languages
+## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Db2203&layout=compact&theme=merko&hide_border=true&langs_count=10" />
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/chartreuse-dark/0-profile-details.svg" alt="profile details" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/chartreuse-dark/1-repos-per-language.svg" alt="repos per language" />
+  <img src="https://raw.githubusercontent.com/Db2203/Db2203/main/profile-summary-card-output/chartreuse-dark/3-stats.svg" alt="stats" />
 </p>
 
 ---

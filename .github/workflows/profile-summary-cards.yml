@@ -1,0 +1,35 @@
+name: GitHub Profile Summary Cards
+
+# Generates static stat SVGs inside your repo using the built-in
+# GITHUB_TOKEN — no PAT, no Vercel, no rate limit. Output lands at
+# `profile-summary-card-output/<theme>/*.svg`. The READMEs reference
+# those files via raw.githubusercontent.com.
+
+on:
+  schedule:
+    # Refresh once a day.
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-cards
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 5
