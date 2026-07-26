@@ -34,7 +34,7 @@ $ whoami
 
 $ cat skills.txt
 languages : python, javascript, typescript, java, c, c++
-ai_ml     : pytorch, tensorflow, scikit-learn, numpy, pandas, jupyter
+ai_ml     : tensorflow, scikit-learn, numpy, pandas, jupyter
 web       : react, nextjs, tailwind, nodejs, express
 data      : mongodb, postgresql, mysql
 ops       : git, github, vscode, docker, linux, aws, figma
@@ -71,7 +71,6 @@ $ ls projects/
 ![Java](https://img.shields.io/badge/java-c9d1d9?style=flat-square&logo=openjdk&logoColor=00ff7f&labelColor=0d1117)
 ![C](https://img.shields.io/badge/c-c9d1d9?style=flat-square&logo=c&logoColor=00ff7f&labelColor=0d1117)
 ![C++](https://img.shields.io/badge/c%2B%2B-c9d1d9?style=flat-square&logo=c%2B%2B&logoColor=00ff7f&labelColor=0d1117)
-![PyTorch](https://img.shields.io/badge/pytorch-c9d1d9?style=flat-square&logo=pytorch&logoColor=00ff7f&labelColor=0d1117)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-c9d1d9?style=flat-square&logo=tensorflow&logoColor=00ff7f&labelColor=0d1117)
 ![scikit-learn](https://img.shields.io/badge/sklearn-c9d1d9?style=flat-square&logo=scikit-learn&logoColor=00ff7f&labelColor=0d1117)
 ![NumPy](https://img.shields.io/badge/numpy-c9d1d9?style=flat-square&logo=numpy&logoColor=00ff7f&labelColor=0d1117)
