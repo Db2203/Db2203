@@ -27,10 +27,9 @@ Loading shell .........  [ OK ]
 
 ```bash
 $ whoami
-> CS student running on caffeine and Stack Overflow.
-> Splits time between AI/ML notebooks, web/app builds,
-  and weekend hobby code that exists because it sounded fun.
-> Currently learning: whatever GitHub trending pushed yesterday.
+> CS student. Python + JS, some ML, some web.
+> Always got a side project going.
+> Currently learning: how to finish side projects
 
 $ cat skills.txt
 languages : python, javascript, typescript, java, c, c++
