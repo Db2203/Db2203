@@ -27,7 +27,7 @@ Loading shell .........  [ OK ]
 
 ```bash
 $ whoami
-> CS student. Python + JS, some ML, some web.
+> CS student. I build whatever I need and figure out the rest.
 > Always got a side project going.
 > Currently learning: how to finish side projects
 
